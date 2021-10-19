@@ -1,14 +1,12 @@
-# Project Name
+![rock paper scissors image](index.png) 
 
-TODO: Write a project description
+# Rock Paper Scissors In Python!
+ 
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+Windows: Get python 3
+Mac (should be built in): upgrade to python 3
+Linux (built in, but may need to upgrade): Upgrade to
+python 3! 
 
 ## Contributing
 
@@ -18,14 +16,11 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+TODO: Write credits - list yourself, team members, anywhere you're getting
+reference (code, visual, references, etc.)
 
 ## License
 
-TODO: Write license
+MIT
